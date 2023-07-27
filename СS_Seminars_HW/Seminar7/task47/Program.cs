@@ -12,7 +12,6 @@ double[,] numbers = new double[rows, colums];
 FillArray2D(numbers);
 PrintArray2D(numbers);
 
-// Заполнение массива рандомными числами
 void FillArray2D(double[,] DoubleMassive)
 {
     for (int i = 0; i < DoubleMassive.GetLength(0); i++)
@@ -24,7 +23,6 @@ void FillArray2D(double[,] DoubleMassive)
     }
 }
 
-//  Функция вывода массива в терминал
 void PrintArray2D(double[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
@@ -38,7 +36,6 @@ void PrintArray2D(double[,] array)
     Console.WriteLine();
 }
 
-// Функция ввода 
 int ReadInt(string message)
 {
     Console.Write(message);

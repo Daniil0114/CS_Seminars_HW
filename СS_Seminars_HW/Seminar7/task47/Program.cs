@@ -19,7 +19,7 @@ void FillArray2D(double[,] DoubleMassive)
     {
         for (int j = 0; j < DoubleMassive.GetLength(1); j++)
         {
-            DoubleMassive[i, j] = new Random().Next(-99, 99) / 10.0;
+            DoubleMassive[i, j] = new Random().Next(-99, 99) /10.0 ;
         }
     }
 }
@@ -31,7 +31,7 @@ void PrintArray2D(double[,] array)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            Console.Write(array[i, j] + " ");
+            Console.Write(array[i, j] + " | ");
         }
         Console.WriteLine();
     }

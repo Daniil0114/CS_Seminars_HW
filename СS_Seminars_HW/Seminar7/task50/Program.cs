@@ -8,43 +8,61 @@
 // 8 4 2 4
 // 17 -> такого числа в массиве нет
 
-int rows = ReadInt("Введите индекс строки: ");
-int colums = ReadInt("Введите индекс столбца: ");
-int[,] numbers = new int[6, 8];
-FillArray2D(numbers);
-PrintArray2D(numbers);
-if (rows < numbers.GetLength(0) && colums < numbers.GetLength(1)) Console.WriteLine(numbers[rows, colums]);
-else Console.WriteLine($"{rows}{colums} -> такого числа в массиве нет");
-
-// Заполнение массива рандомными числами от 1 до 9
-void FillArray2D(int[,] array)
+string FindInArray(int userNumber, int[,] matrix)
 {
-    for (int i = 0; i < array.GetLength(0); i++)
+    if (userNumber < 10)
     {
-        for (int j = 0; j < array.GetLength(1); j++)
+        for (int i = 0; i < matrix.GetLength(0); i++)
         {
-            array[i, j] = new Random().Next(1, 10);
+            for (int j = 0; j < matrix.GetLength(1); j++)
+            {
+                if (matrix[i, j] == userNumber)
+                {
+                    return $"{i}, {j}";
+                }
+            }
         }
     }
-}
-
-//  Функция вывода массива в терминал
-void PrintArray2D(int[,] array)
-{
-    for (int i = 0; i < array.GetLength(0); i++)
+    else
     {
-        for (int j = 0; j < array.GetLength(1); j++)
+        int row = userNumber / 10;
+        int col = userNumber % 10;
+        for (int i = 0; i < matrix.GetLength(0); i++)
         {
-            Console.Write(array[i, j] + " ");
+            for (int j = 0; j < matrix.GetLength(1); j++)
+            {
+                if(i == row & j == col)
+                {
+                    return $"{matrix[i, j]}";
+                }
+            }
         }
-        Console.WriteLine();
     }
-    Console.WriteLine();
+    return "такого числа в массиве нет";
 }
 
-// Функция ввода 
-int ReadInt(string message)
+int GetInfo(string message)
 {
     Console.Write(message);
     return Convert.ToInt32(Console.ReadLine());
 }
+
+int[,] CreateAndPrintTwoDimentionArray()
+{
+    int[,] matrix = new int[new Random().Next(1, 10), new Random().Next(1, 10)];
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            matrix[i, j] = new Random().Next(1, 10);
+            Console.Write($"{matrix[i, j]} ");
+        }
+        Console.WriteLine();
+    }
+    return matrix;
+}
+
+int[,] matrix = CreateAndPrintTwoDimentionArray();
+int findNumberOrPosition = GetInfo("Введите число: ");
+string position = FindInArray(findNumberOrPosition, matrix);
+Console.WriteLine($"{findNumberOrPosition} -> {position}");

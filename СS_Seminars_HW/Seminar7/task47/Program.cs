@@ -9,10 +9,10 @@
 int rows = ReadInt("Введите количество строк: ");
 int colums = ReadInt("Введите количество столбцов: ");
 double[,] numbers = new double[rows, colums];
-FillArray2D(numbers);
-PrintArray2D(numbers);
+FillArray(numbers);
+PrintArray(numbers);
 
-void FillArray2D(double[,] DoubleMassive)
+void FillArray(double[,] DoubleMassive)
 {
     for (int i = 0; i < DoubleMassive.GetLength(0); i++)
     {
@@ -23,7 +23,7 @@ void FillArray2D(double[,] DoubleMassive)
     }
 }
 
-void PrintArray2D(double[,] array)
+void PrintArray(double[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {

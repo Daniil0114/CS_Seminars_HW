@@ -9,14 +9,6 @@
 // 9 5 3 2
 // 8 4 4 2
 
-int[,] table = new int[3, 4];
-FillArrayRandom(table);
-PrintArray(table);
-SortToLower(table);
-Console.WriteLine();
-PrintArray(table);
-
-
 // Функция заполнения массива рандомно числами от 1 до 9
 void FillArrayRandom(int[,] array)
 {
@@ -61,3 +53,10 @@ void PrintArray(int[,] array)
         Console.WriteLine();
     }
 }
+
+int[,] table = new int[3, 4];
+FillArrayRandom(table);
+PrintArray(table);
+SortToLower(table);
+Console.WriteLine();
+PrintArray(table);

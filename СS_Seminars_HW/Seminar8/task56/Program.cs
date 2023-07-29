@@ -9,6 +9,12 @@
 // Программа считает сумму элементов в каждой строке и выдаёт номер строки 
 // с наименьшей суммой элементов: 1 строка
 
+int[,] table = new int[4, 4];
+FillArrayRandom(table);
+PrintArray(table);
+Console.WriteLine();
+NumberRowMinSumElements(table);
+
 // Функция вывода номера строки с наименьшей суммой элементов (не индекса)
 void NumberRowMinSumElements(int[,] array)
 {
@@ -56,9 +62,3 @@ void FillArrayRandom(int[,] array)
         }
     }
 }
-
-int[,] table = new int[4, 4];
-FillArrayRandom(table);
-PrintArray(table);
-Console.WriteLine();
-NumberRowMinSumElements(table);

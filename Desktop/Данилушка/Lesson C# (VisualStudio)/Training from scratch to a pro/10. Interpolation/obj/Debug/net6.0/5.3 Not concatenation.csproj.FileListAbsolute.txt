@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\obj\Debug\net6.0\5.3 Not concatenation.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\obj\Debug\net6.0\5.3 Not concatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\obj\Debug\net6.0\5.3 Not concatenation.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\obj\Debug\net6.0\5.3 Not concatenation.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\obj\Debug\net6.0\5.3 Not concatenation.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\bin\Debug\net6.0\5.3 Not concatenation.exe
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\bin\Debug\net6.0\5.3 Not concatenation.deps.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\bin\Debug\net6.0\5.3 Not concatenation.runtimeconfig.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\bin\Debug\net6.0\5.3 Not concatenation.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\bin\Debug\net6.0\5.3 Not concatenation.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\obj\Debug\net6.0\5.3 Not concatenation.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\obj\Debug\net6.0\refint\5.3 Not concatenation.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\obj\Debug\net6.0\5.3 Not concatenation.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\obj\Debug\net6.0\5.3 Not concatenation.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\5.3 Not concatenation\obj\Debug\net6.0\ref\5.3 Not concatenation.dll

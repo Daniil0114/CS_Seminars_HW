@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\bin\Debug\net6.0\3.1. Division by modulus.exe
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\bin\Debug\net6.0\3.1. Division by modulus.deps.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\bin\Debug\net6.0\3.1. Division by modulus.runtimeconfig.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\bin\Debug\net6.0\3.1. Division by modulus.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\bin\Debug\net6.0\3.1. Division by modulus.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\obj\Debug\net6.0\3.1. Division by modulus.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\obj\Debug\net6.0\3.1. Division by modulus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\obj\Debug\net6.0\3.1. Division by modulus.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\obj\Debug\net6.0\3.1. Division by modulus.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\obj\Debug\net6.0\3.1. Division by modulus.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\obj\Debug\net6.0\3.1. Division by modulus.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\obj\Debug\net6.0\refint\3.1. Division by modulus.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\obj\Debug\net6.0\3.1. Division by modulus.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\obj\Debug\net6.0\3.1. Division by modulus.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.1. Division by modulus\obj\Debug\net6.0\ref\3.1. Division by modulus.dll

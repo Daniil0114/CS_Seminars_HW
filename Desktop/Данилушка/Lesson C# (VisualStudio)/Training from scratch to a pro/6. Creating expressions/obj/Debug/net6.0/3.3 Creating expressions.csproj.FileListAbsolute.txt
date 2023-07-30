@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\bin\Debug\net6.0\3.3 Creating expressions.exe
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\bin\Debug\net6.0\3.3 Creating expressions.deps.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\bin\Debug\net6.0\3.3 Creating expressions.runtimeconfig.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\bin\Debug\net6.0\3.3 Creating expressions.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\bin\Debug\net6.0\3.3 Creating expressions.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\obj\Debug\net6.0\3.3 Creating expressions.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\obj\Debug\net6.0\3.3 Creating expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\obj\Debug\net6.0\3.3 Creating expressions.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\obj\Debug\net6.0\3.3 Creating expressions.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\obj\Debug\net6.0\3.3 Creating expressions.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\obj\Debug\net6.0\3.3 Creating expressions.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\obj\Debug\net6.0\refint\3.3 Creating expressions.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\obj\Debug\net6.0\3.3 Creating expressions.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\obj\Debug\net6.0\3.3 Creating expressions.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\3.3 Creating expressions\obj\Debug\net6.0\ref\3.3 Creating expressions.dll

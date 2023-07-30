@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\obj\Debug\net6.0\11. Type Conversion.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\obj\Debug\net6.0\11. Type Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\obj\Debug\net6.0\11. Type Conversion.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\obj\Debug\net6.0\11. Type Conversion.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\obj\Debug\net6.0\11. Type Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\bin\Debug\net6.0\11. Type Conversion.exe
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\bin\Debug\net6.0\11. Type Conversion.deps.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\bin\Debug\net6.0\11. Type Conversion.runtimeconfig.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\bin\Debug\net6.0\11. Type Conversion.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\bin\Debug\net6.0\11. Type Conversion.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\obj\Debug\net6.0\11. Type Conversion.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\obj\Debug\net6.0\refint\11. Type Conversion.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\obj\Debug\net6.0\11. Type Conversion.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\obj\Debug\net6.0\11. Type Conversion.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\11. Type Conversion\obj\Debug\net6.0\ref\11. Type Conversion.dll

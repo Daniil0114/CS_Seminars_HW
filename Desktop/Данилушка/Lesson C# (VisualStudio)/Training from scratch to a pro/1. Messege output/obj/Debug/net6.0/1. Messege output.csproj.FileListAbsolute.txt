@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\bin\Debug\net6.0\1. Messege output.exe
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\bin\Debug\net6.0\1. Messege output.deps.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\bin\Debug\net6.0\1. Messege output.runtimeconfig.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\bin\Debug\net6.0\1. Messege output.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\bin\Debug\net6.0\1. Messege output.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\obj\Debug\net6.0\1. Messege output.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\obj\Debug\net6.0\1. Messege output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\obj\Debug\net6.0\1. Messege output.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\obj\Debug\net6.0\1. Messege output.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\obj\Debug\net6.0\1. Messege output.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\obj\Debug\net6.0\1. Messege output.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\obj\Debug\net6.0\refint\1. Messege output.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\obj\Debug\net6.0\1. Messege output.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\obj\Debug\net6.0\1. Messege output.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C#\Training from scratch to a pro\1. Messege output\obj\Debug\net6.0\ref\1. Messege output.dll

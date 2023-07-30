@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\bin\Debug\net6.0\1. ==.exe
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\bin\Debug\net6.0\1. ==.deps.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\bin\Debug\net6.0\1. ==.runtimeconfig.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\bin\Debug\net6.0\1. ==.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\bin\Debug\net6.0\1. ==.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\obj\Debug\net6.0\1. ==.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\obj\Debug\net6.0\1. ==.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\obj\Debug\net6.0\1. ==.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\obj\Debug\net6.0\1. ==.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\obj\Debug\net6.0\1. ==.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\obj\Debug\net6.0\1. ==.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\obj\Debug\net6.0\refint\1. ==.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\obj\Debug\net6.0\1. ==.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\obj\Debug\net6.0\1. ==.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\1. ==\obj\Debug\net6.0\ref\1. ==.dll

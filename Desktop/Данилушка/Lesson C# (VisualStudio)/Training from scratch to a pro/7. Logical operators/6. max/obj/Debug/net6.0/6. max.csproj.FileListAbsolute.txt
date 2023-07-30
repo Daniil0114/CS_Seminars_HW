@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\bin\Debug\net6.0\6. max.exe
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\bin\Debug\net6.0\6. max.deps.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\bin\Debug\net6.0\6. max.runtimeconfig.json
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\bin\Debug\net6.0\6. max.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\bin\Debug\net6.0\6. max.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\obj\Debug\net6.0\6. max.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\obj\Debug\net6.0\6. max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\obj\Debug\net6.0\6. max.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\obj\Debug\net6.0\6. max.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\obj\Debug\net6.0\6. max.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\obj\Debug\net6.0\6. max.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\obj\Debug\net6.0\refint\6. max.dll
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\obj\Debug\net6.0\6. max.pdb
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\obj\Debug\net6.0\6. max.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Данилушка\Lesson C# (VisualStudio)\Training from scratch to a pro\4. Logical operators\6. max\obj\Debug\net6.0\ref\6. max.dll

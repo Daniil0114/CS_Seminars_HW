@@ -13,18 +13,17 @@ PrintArray(table);
 //  Функция заполнения массива по спирали начиная с 1
 void FillArraySpiral(int[,] array, int n)
 {
-    string array[i][j][k];
-    for(int i = 0; i < array.GetLength(0); i++)
+    int i = 0, j = 0;
+    int value = 1;
+    for (int e = 0; e < n * n; e++)
     {
-        for(int j = 0; j < array.GetLength(1); j++)
-        {
-            for(int k = 0; k < array.GetLength(2); k++)
-            {
-                int temp = array[i, k + 1];
-                    array[i, k + 1] = array[i, k];
-                    array[i, k] = temp;
-            }
-        }
+         int k = 0;
+        do { array[i, j++] = value++; } while (++k < n - 1);
+        for (k = 0; k < n - 1; k++) array[i++, j] = value++;
+        for (k = 0; k < n - 1; k++) array[i, j--] = value++;
+        for (k = 0; k < n - 1; k++) array[i--, j] = value++;
+        ++i; ++j;
+        n = n < 2 ? 0 : n - 2;
     }
 
 }

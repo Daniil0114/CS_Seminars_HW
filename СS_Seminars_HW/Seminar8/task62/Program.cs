@@ -35,7 +35,7 @@ void PrintArray(int[,] array)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            if (array[i, j] > 10)
+            if (array[i, j] > 15)
             {
                 Console.Write(array[i, j]);
                 Console.Write(" ");
